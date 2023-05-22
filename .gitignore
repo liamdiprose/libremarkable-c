@@ -1,2 +1,11 @@
+# Rust
 /target
+
+# Direnv
 .envrc
+
+# Test Binaries
+test/bin
+
+# Nix Result symlink
+result

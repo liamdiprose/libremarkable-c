@@ -3,3 +3,6 @@ language = "C"
 [export]
 exclude = []
 
+[parse]
+parse_deps = true
+include = ["libremarkable", "cgmath"]
